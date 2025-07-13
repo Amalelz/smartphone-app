@@ -1,0 +1,5 @@
+.tumb-img{
+    height: 200px;
+    object-fit:contain;
+    margin: 5px;
+}
